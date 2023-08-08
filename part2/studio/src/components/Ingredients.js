@@ -1,3 +1,4 @@
+import recipedata from "./recipe.json";
 function IngredientList() {
    return;
  }
