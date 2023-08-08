@@ -1,4 +1,5 @@
 import "./styling.css";
+
 function ClickedButton() {
   function handleClick(){
     alert("Your Pin is saved!");
